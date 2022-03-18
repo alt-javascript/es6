@@ -1,4 +1,4 @@
-Simple utility to ease the use of browser cookies.
+Language feature detection utilities for ECMAScript 6 and beyond.
 ===================================
 
 [![NPM](https://nodei.co/npm/@alt-javascript/lang.svg?downloads=true&downloadRank=true)](https://nodei.co/npm/@alt-javascript/lang/)

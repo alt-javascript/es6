@@ -1,6 +1,6 @@
 {
   "name": "@alt-javascript/lang",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Language feature detection utilities for ECMAScript 6 and beyond.",
   "author": "",
   "keywords": [
