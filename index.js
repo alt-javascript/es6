@@ -12,7 +12,7 @@ const syntax = require('es-feature-detection/syntax');
 const dom = require('es-feature-detection/dom');
 const localization = require('es-feature-detection/localization');
 
-window.es = {
+window.lang = {
   detect,
   es2015,
   es2016,
