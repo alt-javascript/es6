@@ -13,7 +13,7 @@ module.exports = {
         port: 8080,
     },
     output: {
-        filename: 'alt-javascript-es-iife.js',
+        filename: 'alt-javascript-lang-iife.js',
         path: path.resolve(__dirname, 'dist'),
         assetModuleFilename: '[name][ext]',
         clean: true,
