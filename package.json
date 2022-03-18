@@ -1,6 +1,6 @@
 {
   "name": "@alt-javascript/lang",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Language feature detection utilities for ECMAScript 6 and beyond.",
   "author": "",
   "keywords": [
@@ -26,10 +26,10 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "homepage": "https://github.com/alt-javascript/cookies#readme",
+  "homepage": "https://github.com/alt-javascript/lang#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alt-javascript/cookies"
+    "url": "https://github.com/alt-javascript/lang"
   },
   "main": "index.js",
   "type": "commonjs",
